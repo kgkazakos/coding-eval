@@ -1,0 +1,6 @@
+segment_id,text,codes
+s01,I love the checkout process it's really fast,satisfaction;usability
+s02,The search doesn't work well on mobile,pain_point;mobile
+s03,I wish I could save my cart for later,feature_request
+s04,It crashed when I tried to add a promo code,bug;pain_point
+s05,The recommendations are spot on every time,satisfaction

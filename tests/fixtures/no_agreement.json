@@ -1,0 +1,7 @@
+[
+  {"segment_id": "n01", "text": "The onboarding flow is confusing for new users", "codes": ["usability"], "llm_codes": ["engagement"]},
+  {"segment_id": "n02", "text": "I really appreciate the dark mode option", "codes": ["satisfaction"], "llm_codes": ["bug"]},
+  {"segment_id": "n03", "text": "It would be nice to export data as CSV", "codes": ["feature_request"], "llm_codes": ["pain_point"]},
+  {"segment_id": "n04", "text": "The app froze on the payment screen", "codes": ["bug"], "llm_codes": ["feature_request"]},
+  {"segment_id": "n05", "text": "I open the app at least twice a day", "codes": ["engagement"], "llm_codes": ["satisfaction"]}
+]

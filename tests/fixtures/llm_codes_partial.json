@@ -1,0 +1,12 @@
+[
+  {"segment_id": "s01", "text": "I love the checkout process, it's really fast", "codes": ["satisfaction", "usability"]},
+  {"segment_id": "s02", "text": "The search doesn't work well on mobile", "codes": ["pain_point"]},
+  {"segment_id": "s03", "text": "I wish I could save my cart for later", "codes": ["feature_request"]},
+  {"segment_id": "s04", "text": "It crashed when I tried to add a promo code", "codes": ["bug"]},
+  {"segment_id": "s05", "text": "The recommendations are spot on every time", "codes": ["satisfaction", "usability"]},
+  {"segment_id": "s06", "text": "Too many steps to complete a purchase", "codes": ["pain_point"]},
+  {"segment_id": "s07", "text": "I use this every week for grocery runs", "codes": ["engagement"]},
+  {"segment_id": "s08", "text": "Would be great to filter by dietary restrictions", "codes": ["feature_request", "usability"]},
+  {"segment_id": "s09", "text": "The app loads instantly even on slow wifi", "codes": ["satisfaction"]},
+  {"segment_id": "s10", "text": "I can't find the cancellation option anywhere", "codes": ["pain_point", "usability"]}
+]
