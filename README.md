@@ -118,7 +118,7 @@ Based on Landis & Koch (1977). Scores below 0.60 typically warrant coder calibra
 |------|--------------|-------------|
 | `openai` (default) | `openai/gpt-4o-mini` | `OPENAI_API_KEY` |
 | `anthropic` | `anthropic/claude-haiku-4-5-20251001` | `ANTHROPIC_API_KEY` |
-| `gemini` | `gemini/gemini-2.0-flash` | `GEMINI_API_KEY` |
+| `gemini` | `gemini/gemini-3.6-flash` | `GEMINI_API_KEY` |
 | `none` | — | — |
 
 All backends route through [LiteLLM](https://github.com/BerriAI/litellm) via DSPy, so any LiteLLM-compatible model string works. To use a stronger model, edit `BACKENDS` in `coding_eval/coder.py` — swap `openai/gpt-4o-mini` for `openai/gpt-4o` or `anthropic/claude-opus-4-6` for higher-stakes calibration runs.
